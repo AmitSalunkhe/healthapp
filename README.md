@@ -35,7 +35,7 @@ A patient can perform the following features for now:
 # Screen Shots
 
 ## Welcome and User Type
-<img src="images/welcome.png" width = 200> <img src="images/user.png" width = 200>
+<img src="images/welcome.png" width = 200> <img src="images/user.png" width = 200><img src="images/projectDetails.png" width = 200>
 
 ## Doctor Part
 <img src="images/doctoLogin.png" width = 200> <img src="images/doctorpanel.png" width = 200> <img src="images/doctorEdit.png" width = 200> <img src="images/doctorProfile.png" width = 200>
