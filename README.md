@@ -35,13 +35,13 @@ A patient can perform the following features for now:
 # Screen Shots
 
 ## Welcome and User Type
-<img src="images/welcome.jpg" width = 200> <img src="images/user.jpg" width = 200>
+<img src="images/welcome.png" width = 200> <img src="images/user.png" width = 200>
 
 ## Doctor Part
-<img src="images/doctoLogin.jpg" width = 200> <img src="images/doctorpanel.jpg" width = 200> <img src="images/doctorEdit.jpg" width = 200> <img src="images/doctorProfile.jpg" width = 200>
+<img src="images/doctoLogin.png" width = 200> <img src="images/doctorpanel.png" width = 200> <img src="images/doctorEdit.png" width = 200> <img src="images/doctorProfile.png" width = 200>
 
 ## Patient Part
-<img src="images/patientLogin.jpg" width = 200> <img src="images/patientPanel.jpg" width = 200> <img src="images/medDetails.jpg" width = 200> <img src="images/doctorDetails.jpg" width = 200> <img src="images/patientProfile.jpg" width = 200>
+<img src="images/patientLogin.png" width = 200> <img src="images/patientPanel.png" width = 200> <img src="images/medDetails.png" width = 200> <img src="images/doctorDetails.png" width = 200> <img src="images/patientProfile.png" width = 200>
 
 # Features in Future
 Following features could be added in future:
