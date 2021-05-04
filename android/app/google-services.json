@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "884871661089",
+    "project_id": "medkit-e0bd9",
+    "storage_bucket": "medkit-e0bd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884871661089:android:5057b17f7a3b1446f18560",
+        "android_client_info": {
+          "package_name": "com.example.medkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884871661089-pu57l1isun4leig2enutj8u8a2lka40k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medkit",
+            "certificate_hash": "a8a6d6277030ea56ca43c68bcf695b961aeab273"
+          }
+        },
+        {
+          "client_id": "884871661089-n1f08edaomgnjnk8fc4brq6uaod6mj81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQtQDb1RzKGOYNcOFxOhg2gXkMPqv4ohs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884871661089-n1f08edaomgnjnk8fc4brq6uaod6mj81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
