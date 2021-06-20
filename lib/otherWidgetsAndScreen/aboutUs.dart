@@ -46,7 +46,7 @@ class AboutUs extends StatelessWidget {
                         style: TextStyle(fontWeight: FontWeight.bold),
                       ),
                       Text(
-                        'Aakansha Raul'
+                        'Aakanksha Raul'
                         '\nPriyanka Adhav'
                         '\nSakshi Pol'
                         '\nPranali Kadam',
@@ -59,7 +59,7 @@ class AboutUs extends StatelessWidget {
                         'Under Guidance: ',
                         style: TextStyle(fontWeight: FontWeight.bold),
                       ),
-                      Text('Amit Salunkhe'),
+                      Text('Mrs. Monika Pawar'),
                       SizedBox(
                         height: height * 0.12,
                       ),
